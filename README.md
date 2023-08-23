@@ -1,3 +1,5 @@
+**为了使用支持deflate压缩算法的分支**
+
 # Tungstenite
 
 Lightweight stream-based WebSocket implementation for [Rust](https://www.rust-lang.org/).
